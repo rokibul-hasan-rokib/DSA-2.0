@@ -1,5 +1,4 @@
 def remove_duplicates(arr):
-    """Remove duplicates from an array while preserving order."""
     seen = set()
     result = []
     for item in arr:
